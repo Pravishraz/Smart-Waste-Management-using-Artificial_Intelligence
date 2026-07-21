@@ -1,4 +1,3 @@
-# Smart-Waste-Management-using-Artificial_Intelligence
 # 🗑️ SMART WASTE MANAGEMENT USING ARTIFICIAL INTELLIGENCE
 
 > **AI-Powered IoT Solution for Intelligent Waste Collection**
